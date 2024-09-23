@@ -1,6 +1,6 @@
 # Testnet Feedback and Recommendations
 
-## Chainflow
+## From Chainflow
 
 Chainflow's operated in crypto testnets since first joining the Cosmos Validator working group in late 2017. We've operated on many testnets through the years, starting with the original incentivized testnet, Game of Stakes. We also helped design a number of these testnets in the early years, when the concept was new and teams were trying to determine the characteristics of an effective incentivized testnet. We've done this for projects like NuCypher, Akash and helped design Solana's Tour de Sol.
 
@@ -65,17 +65,28 @@ In addition to being transparent about this, consistency in adhering to the scor
   
 ## Establish Clear and Consistent Communication
 
-This point goes hand-in-hand with the transparency recommendation In the early days, we encouraged teams to use a single announcements channel. Fortunately this has become common practice today.
+This point goes hand-in-hand with the transparency recommendation In the early days, we [encouraged teams to use a single announcements channel](https://chainflow.io/one-simple-way-to-improve-validator-communication/). Fortunately this has become common practice today.
 
-Choose a single way to communicate messages you want to be sure validators see. Don't switch between a Discord announcements channel and an @all role in a separate Discord channel for announcements.  
-<br/>Like most people in crypto, validators are in more chat channels than they can realistically follow 24x7 and respond to immediately. However, validators do have processes in place that allow them to monitor and respond quicly to a smaller number of channels.   
-<br/>Use a consistent messaging format when possible, e.g. for upgrade announcements include the code link, tag/hash, target upgrade time, any instructions that may be new or different from past upgrades, as well as the window validators are expected to respond within.  
-<br/>More generally, keep the level of communication consistent when at all possible. It becomes difficult when validators have a hard time understanding -  
-<br/>1 - How to contact a core team member and who to contact  
-<br/>What's the communication flow from the validator to core team look like? Are core team members open to receiving DMs? Should validators tag them? Should a moderator be contacted, who can then route the request to the right team member?  
-<br/>2 - What the expected response time from the core team member is  
-<br/>If core team members can't be expected to be available consistently, that's fine. Knowing this makes it clearer to validators that we should be getting and giving help among ourselves, rather waiting for a response from a core team member.  
-<br/>Suggestion - We suggest the core team answer the above questions and post them in a comprehensive blog post announcing the next phase of testnet launch (preferred) or in a Discord #validator-annoucements post.  
-<br/>**Conclusion  
-<br/>**There a lot that goes into planning and executing a successful testnet program. The level of effort is often underestimated. (Offer Ekene as a moderator...) Planning at the beginning goes a long way toward setting a foundation, keeping all parties synchronized and ultimately achieving the testnet program's goals.  
-<br/>Suggestion - The Story Protocol testnet program is in flight. We suggest that team think through and execute on the suggestions listed above, prior to initiating the next phase of the testnet.
+Choose a single way to communicate messages you want to be sure validators see critical updates. Don't switch between a Discord announcements channel and an @all role in a separate Discord channel for announcements.
+  
+Like most people in crypto, validators are in more chat channels than they can realistically follow 24x7 and respond to immediately. However, validators do have processes in place that allow them to monitor and respond quicly to a smaller number of channels.
+  
+Use a consistent messaging format when possible, e.g. for upgrade announcements include the code link, tag/hash, target upgrade time, any instructions that may be new or different from past upgrades, as well as the window validators are expected to respond within.
+
+More generally, keep the level of communication consistent when at all possible. It becomes difficult when validators have a hard time understanding -
+  
+1 - How to contact a core team member and who to contact  
+
+What's the communication flow from the validator to core team look like? Are core team members open to receiving DMs? Should validators tag them? Should a moderator be contacted, who can then route the request to the right team member?
+
+2 - What the expected response time from the core team member is
+  
+If core team members can't be expected to be available consistently, that's fine. Knowing this makes it clearer to validators that we should be getting and giving help among ourselves, rather waiting for a response from a core team member.
+  
+**Suggestion - We suggest the core team answer the above questions and post them in a comprehensive blog post announcing the next phase of testnet launch (preferred) or in a Discord #validator-annoucements post.**  
+
+## Conclusion
+  
+There's a lot that goes into planning and executing a successful testnet program. The level of effort is often underestimated. Planning at the beginning goes a long way toward setting a foundation, keeping all parties synchronized and ultimately achieving the testnet program's goals.
+  
+**Suggestion - The Story Protocol testnet program is in flight. We suggest that team think through and execute on the suggestions listed above, prior to initiating the next phase of the testnet.**
