@@ -6,12 +6,15 @@ Chainflow's operated in crypto testnets since first joining the Cosmos Validator
 
 We'd like to now share that experience with the Story Protocol team, as a participant in the current testnet and aspiring mainnet validator. While most of the feedback applies to incentivized testnets in general, we've made an effort to adapt specifically to the ongoing and planned Story Protocol testnets, based on our current understanding of them.
 
-**Define Goals and Build the Foundation**
+## Define Goals and Build the Foundation
 
-What are the goals of the testnet? This is the first question we suggest teams ask themselves when planning a testnet program. The goals often fall along the spectrum from assumed to loosely understood. We suggest a team start by defining the goals, write them down, agree with them as a team, then communicate them clearly to the validator participants.  
-<br/>Goal examples include things like identifying the validators that will make it into the active set and/or generating visibility for for the project. Regardless of the goal details, being sychronized as a team internally and with the validator set externally is critical to the successful outcome of a testnet program. Goals can be weighted based on their importance and related priority.
+What are the goals of the testnet?
 
-Suggestion - The Story Protocol testnet program is underway and moving fast. We suggest that the team synchronizes on a clear set of goals internally and communicates them to validator participants in a blog post shared via the #validator-annoucements Discord channel. One important goal would be to identify exactly how many validator spots Story is looking to fill to support mainnet launch.
+This is the first question we suggest teams ask themselves when planning a testnet program. The goals often fall along the spectrum from assumed to loosely understood. We suggest a team start by defining the goals, write them down, agree with them as a team, then communicate the goals clearly to the validator participants.
+ 
+Goal examples include things like identifying the validators that will make it into the active set and/or generating visibility for for the project. Regardless of the goal details, being sychronized as a team internally and with the validator set externally is critical to the successful outcome of a testnet program. Furthermore, goals can be weighted based on their importance and related priority.
+
+**Suggestion - The Story Protocol testnet program is underway and moving fast. We suggest that the team synchronizes on a clear set of goals internally and communicates them to validator participants. One important goal would be to identify exactly how many validator spots Story is looking to fill to support mainnet launch.**
 
 **Work Backwards from the Foundation, In Phases**  
 <br/>Identify specific tasks once the foundation is established. These tasks should be linked directly to accomplishing the foundational goals. It's often helpful to break these tasks into stages or phases. Points can be assigned based on weights given to each of the goals.  
