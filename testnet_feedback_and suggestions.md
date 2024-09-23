@@ -16,14 +16,19 @@ Goal examples include things like identifying the validators that will make it i
 
 **Suggestion - The Story Protocol testnet program is underway and moving fast. We suggest that the team synchronizes on a clear set of goals internally and communicates them to validator participants. One important goal would be to identify exactly how many validator spots Story is looking to fill to support mainnet launch.**
 
-**Work Backwards from the Foundation, In Phases**  
-<br/>Identify specific tasks once the foundation is established. These tasks should be linked directly to accomplishing the foundational goals. It's often helpful to break these tasks into stages or phases. Points can be assigned based on weights given to each of the goals.  
-<br/>There are two ways to do this -  
-<br/>1 - Each stage or phase can have a specific set of goals. In this case tasks are discrete, finite and confined to a specific stage or phase.  
-<br/>2 - Goals span multiple stages or phases. In this case tasks build upon themselves over stages or phases.   
-<br/>Starting at the end and working backwards provides the team with confidence that what they're asking validators to do are directly linked to the testnets' desired goals.  
-<br/>Taking pauses between phases is also very beneficial.   
-<br/>Suggestion - We suggest the Story Protocol team chooses one of the two approaches and builds a spreadsheet that lists tasks in phases, identifying which end goal each task supports and assign points based on the associated goal's priority.  
+## Work Backwards from the Foundation, In Phases
+ 
+Identify specific tasks once the goals are established. These tasks should be linked directly to accomplishing the foundational goals. It's often helpful to break these tasks into stages or phases. Points can be assigned based on weights given to each of the goals.
+
+There are two ways to do this -
+
+1 - Each stage or phase can have a specific set of goals. In this case tasks are discrete, finite and confined to a specific stage or phase.  
+2 - Goals span multiple stages or phases. In this case tasks build upon themselves over stages or phases.
+
+Starting with the goals and working backwards provides the team with confidence that what they're asking validators to do are directly linked to the testnets' desired goals. Taking pauses between phases is also very beneficial, as it helps keep the team and validators aligned throughout the testnet program.
+   
+**Suggestion - We suggest the Story Protocol team chooses one of the two approaches and builds a spreadsheet that lists tasks in phases, identifying which end goal each task supports and assign points based on the associated goal's priority.**
+
 <br/>**Establish Clear Expectations**  
 <br/>There are two sets of expectations to establish.  
 <br/>1 - What does Story expect from validators?
