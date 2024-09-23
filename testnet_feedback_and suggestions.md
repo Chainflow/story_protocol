@@ -29,29 +29,41 @@ Starting with the goals and working backwards provides the team with confidence 
    
 **Suggestion - We suggest the Story Protocol team chooses one of the two approaches and builds a spreadsheet that lists tasks in phases, identifying which end goal each task supports and assign points based on the associated goal's priority.**
 
-<br/>**Establish Clear Expectations**  
-<br/>There are two sets of expectations to establish.  
-<br/>1 - What does Story expect from validators?
+## Establish Clear Expectations
 
-Establish the level of commitment Story expects to see here. Should validators be treating these testnets like they would a mainnet? How fast does Story expect validators to respond to announcements? How should submissions be made? Can validators confirm receipt of submissions and if yes, how?  
-<br/>2 - What can validators expect from Story?  
-<br/>Will Story be sharing a scoring or points system? What is the preferred way to ask questions? What level of responsiveness can validators expect from Story? How many validator slots are to be competed for? What will happen to valiadators who don't make the cut, i.e. are there token awards?  
-<br/>Suggestion - Address the above questions in a blog post (preferred) or a Discord annoucement BEFORE the next phase of the testnet starts.
+There are two sets of expectations to establish.  
 
-**Establish a Consistent Level of Transparency  
-<br/>**We've seen testnet programs operate under varying degrees of transparency. The most successful have maintained a consistent level of transparency throughout the program. The least successful have promised to be very transparent and end up not being transparent at all. The middle scenario is when the level of transparency shifts throughout the testnet.  
-<br/>Many validators have been around for a while and have participated in many testnets. Their BS antennas are up and can usually pretty quickly identify when they're being led-on or otherwise gamed in service of the protocol. Some or even many may tolerate this, to avoid losing out on potential rewards.  
-<br/>However, the establishment of good will goes a long way toward building a healthy network. How a testnet runs is often an indicator of a network's future success. Issues that go unresolved during testnets, be they technical or social, can do damage down the road and jeopardize the long-term success of the network.
+1 - What does Story expect from validators?
 
-Suggestion - Determine the level of transparency now, prior to the next phase of the testnet starting. Establishing transparency related to the scoring system is probably the most important suggestion we could make, namely and at risk of being repetitive for emphasis -  
-<br/>1 - How are scores calculated?
+Establish the level of commitment Story expects to see here. Should validators be treating these testnets like they would a mainnet? How fast does Story expect validators to respond to announcements? How should submissions be made? Can validators confirm receipt of submissions and if yes, how?
+  
+2 - What can validators expect from Story?
+  
+Will Story be sharing a scoring or points system? What is the preferred way to ask questions? What level of responsiveness can validators expect from Story? How many validator slots are to be competed for? What will happen to valiadators who don't make the cut, i.e. are there token awards for participants who don't make the mainnet set?
 
-2 - How are submissions made?  
-<br/>3 - How can a validator confirm a submission has been received and considered?
+**Suggestion - Share the answers to the above questions with the validators in a blog post or a Discord annoucement BEFORE the next phase of the testnet starts.**
 
-4 - Will scores be shared publicly and/or individually?  
-<br/>In addition to being transparent about this, consistency in adhering to the scoring system is critical, as exceptions and deviations from it can undermine trust very fast. Validators are pretty adept at identifying these exceptions, deviations and preferential treatment.  
-<br/>**Establish Clear and Consistent Communication**
+## Establish a Consistent Level of Transparency
+  
+We've seen testnet programs operate under varying degrees of transparency. The most successful have maintained a consistent level of transparency throughout the program. The least successful have promised to be very transparent and end up not being transparent at all. The middle scenario is when the level of transparency shifts throughout the testnet.
+
+Many validators have been around for a while and have participated in many testnets. Their BS antennas are up and can usually pretty quickly identify when they're being led-on or otherwise gamed in service of the protocol. Some or even many may tolerate this, to avoid losing out on potential rewards.
+
+However, the establishment of goodwill goes a long way toward building a healthy network. How a testnet runs is often an indicator of a network's future success. Issues that go unresolved during testnets, be they technical or social, can do damage down the road and jeopardize the long-term success of the network.
+
+**Suggestion - Determine the level of transparency now, prior to the next phase of the testnet starting. Establishing transparency related to the scoring system is probably the most important suggestion we could make, namely and at risk of being repetitive for emphasis -**  
+
+**1 - How are scores calculated?**
+
+**2 - How are submissions made?**
+  
+**3 - How can a validator confirm a submission has been received and considered?**
+
+**4 - Will scores be shared publicly and/or privately (individually)?**
+ 
+In addition to being transparent about this, consistency in adhering to the scoring system is critical, as exceptions and deviations from it can undermine trust very fast. Validators are pretty adept at identifying these exceptions, deviations and preferential treatment.
+  
+## Establish Clear and Consistent Communication
 
 This point goes hand-in-hand with the transparency recommendation In the early days, we encouraged teams to use a single announcements channel. Fortunately this has become common practice today.
 
