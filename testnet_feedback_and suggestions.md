@@ -130,4 +130,4 @@ There's a lot that goes into planning and executing a successful testnet program
 
 **General Feedback**:
 
-I'm excited to be part of the Story Protocol testnet and believe in the project's potential. By refining the testnet's objectives and fostering an environment that values quality contributions, I think we can work together to build a robust and successful future.
+I'm excited to be part of the Story Protocol testnet and believe in the project's potential. By refining the testnet's objectives and fostering an environment that values quality contributions, I think we can work together to build a robust and successful future. Thank you.
