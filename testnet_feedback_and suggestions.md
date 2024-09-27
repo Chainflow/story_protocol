@@ -141,6 +141,8 @@ I'm excited to be part of the Story Protocol testnet and believe in the project'
 
 # From moonli.me (y3v63n in Discord)
 
+**Comments Regarding Point-Based Reward Systems**:
+
 Prioritize rewarding contributions that are directly tied to validator operations over those in other areas. In the end of the day, validators are responsible for maintaining high uptime, performing timely upgrades and voting on proposals. While contributions in other areas can add value, they are not critical to the network's health. Free marketing has its merits, but as experienced independent validator, we’ve observed testnets where trivial efforts like posting about a project can earn as many points as consistently maintaining high uptime throughout the testnet.
 
 The same principle applies to technical contributions. Substantial code improvements are valuable, while minor edits, like fixing typos in documentation, should carry little to no weight. Developing a novel tool is highly commendable, but creating yet another fork of a block explorer holds far less value.
