@@ -91,6 +91,12 @@ There's a lot that goes into planning and executing a successful testnet program
   
 **Suggestion - The Story Protocol testnet program is in flight. We suggest that team think through and execute on the suggestions listed above, prior to initiating the next phase of the testnet.**
 
+# From vikanren
+  
+This is my github and discord username. I am an individual validator participated in many testnets and mainnet validator programs like Avalanche Subnet, Gnosis, Eigenlayer AVSs, Forta, Aptos, Sui, Celestia, Manta, Avail, Kroma, Dymension, Streamr, 0g, Powerloom, Ar.io and many more for more than three years. I have been running Story validator since the begining but I am not in the active set as the team declared no need to abuse the faucet. As an experienced validator I have some suggestions for the team. Many thanks to Chainflow team for this opportunity.
+  
+**Suggestion - As a simulation of the mainnet, what a testnet needs most to take into attention are uptime, sustainability and decentralization. So Story Protocol had better select the validators according to the time they spent for the testnet (not only for the ones in the active set), willingness to contribute to the project, uniqeness (could be achieved by kyc or some sybil detection techniques - this can be a key to enable decentralization which can be achieved by onboarding both companies/teams and individual validators). These main features could ensure a fair and successful testnet.**
+
 # From Pokoblue
 
 ## What worked well
