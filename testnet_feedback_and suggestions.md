@@ -91,8 +91,49 @@ There's a lot that goes into planning and executing a successful testnet program
   
 **Suggestion - The Story Protocol testnet program is in flight. We suggest that team think through and execute on the suggestions listed above, prior to initiating the next phase of the testnet.**
 
-## vikanren
+# From vikanren
   
 This is my github and discord username. I am an individual validator participated in many testnets and mainnet validator programs like Avalanche Subnet, Gnosis, Eigenlayer AVSs, Forta, Aptos, Sui, Celestia, Manta, Avail, Kroma, Dymension, Streamr, 0g, Powerloom, Ar.io and many more for more than three years. I have been running Story validator since the begining but I am not in the active set as the team declared no need to abuse the faucet. As an experienced validator I have some suggestions for the team. Many thanks to Chainflow team for this opportunity.
   
 **Suggestion - As a simulation of the mainnet, what a testnet needs most to take into attention are uptime, sustainability and decentralization. So Story Protocol had better select the validators according to the time they spent for the testnet (not only for the ones in the active set), willingness to contribute to the project, uniqeness (could be achieved by kyc or some sybil detection techniques - this can be a key to enable decentralization which can be achieved by onboarding both companies/teams and individual validators). These main features could ensure a fair and successful testnet.**
+
+# From Pokoblue
+
+## What worked well
+
+- I really appreciate the initiative to involve validators like myself in the testnet. It shows a strong commitment to decentralization.
+- It's great to see the community so active and interested in the project.
+
+## What could be improved
+
+1. **Clarify Testnet Goals**
+
+   - From my experience, the current emphasis on accumulating test tokens to climb the rankings creates a competitive atmosphere that values quantity over quality. I feel this might not be the best approach for the network's long-term health.
+
+2. **Prevent Token Misuse**
+
+   - I've noticed that test tokens are sometimes being misused, which seems to undermine the integrity of the testnet. Implementing measures to prevent this could help promote fairness among participants.
+
+3. **Promote Quality Contributions**
+
+   - I'd love to see more recognition for meaningful contributions, like identifying bugs, creating detailed content, or improving documentation. Focusing solely on stake accumulation means that some validators with high stakes but low uptime end up ranking higher, which doesn't seem ideal.
+
+4. **Enhance Transparency**
+
+   - Clear communication about the rewards for both active and inactive validators, as well as the selection criteria, would really help build trust and align everyone's expectations.
+
+5. **Implement a Hybrid Validator Selection Model**
+
+   - **For Mainnet: Stake-Based Validation**
+
+     I recommend that the mainnet operates on a clear stake-based model. This approach ensures that validators have a significant investment in the network's success, aligning their incentives with the health and security of the blockchain.
+
+   - **For Testnet: Contribution and Performance-Based Selection**
+
+     During the testnet phase, it would be beneficial to focus on validators' contributions and performance rather than their stake. By evaluating validators based on their technical contributions—such as bug reports, code improvements, documentation, and maintaining high uptime—we can promote organic growth and meaningful participation.
+
+     If measuring contributions becomes challenging, a lottery-based selection could be a fair alternative to ensure all interested participants have an opportunity to contribute.
+
+**General Feedback**:
+
+I'm excited to be part of the Story Protocol testnet and believe in the project's potential. By refining the testnet's objectives and fostering an environment that values quality contributions, I think we can work together to build a robust and successful future. Thank you.
